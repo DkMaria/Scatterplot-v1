@@ -1,0 +1,302 @@
+[
+ {
+   "Date": "2000",
+   "Type": "SO2",
+   "Number": 25.17
+ },
+ {
+   "Date": "2000",
+   "Type": "PM10",
+   "Number": 70.09
+ },
+ {
+   "Date": "2000",
+   "Type": "CO",
+   "Number": 1.99
+ },
+ {
+   "Date": "2000",
+   "Type": "NO",
+   "Number": 164.81
+ },
+ {
+   "Date": "2000",
+   "Type": "NO2",
+   "Number": 82.01
+ },
+ {
+   "Date": "2000",
+   "Type": "O3",
+   "Number": 40.25
+ },
+ {
+   "Date": "2001",
+   "Type": "SO2",
+   "Number": 34.61
+ },
+ {
+   "Date": "2001",
+   "Type": "PM10",
+   "Number": 65.37
+ },
+ {
+   "Date": "2001",
+   "Type": "CO",
+   "Number": 1.85
+ },
+ {
+   "Date": "2001",
+   "Type": "NO",
+   "Number": 155.75
+ },
+ {
+   "Date": "2001",
+   "Type": "NO2",
+   "Number": 81.98
+ },
+ {
+   "Date": "2001",
+   "Type": "O3",
+   "Number": 45.45
+ },
+ {
+   "Date": "2002",
+   "Type": "SO2",
+   "Number": 23.76
+ },
+ {
+   "Date": "2002",
+   "Type": "PM10",
+   "Number": 73.88
+ },
+ {
+   "Date": "2002",
+   "Type": "CO",
+   "Number": 1.82
+ },
+ {
+   "Date": "2002",
+   "Type": "NO",
+   "Number": 120.58
+ },
+ {
+   "Date": "2002",
+   "Type": "NO2",
+   "Number": 72.11
+ },
+ {
+   "Date": "2002",
+   "Type": "O3",
+   "Number": 32.71
+ },
+ {
+   "Date": "2003",
+   "Type": "SO2",
+   "Number": 21.15
+ },
+ {
+   "Date": "2003",
+   "Type": "PM10",
+   "Number": 67.47
+ },
+ {
+   "Date": "2003",
+   "Type": "CO",
+   "Number": 1.78
+ },
+ {
+   "Date": "2003",
+   "Type": "NO",
+   "Number": 136.12
+ },
+ {
+   "Date": "2003",
+   "Type": "NO2",
+   "Number": 81.34
+ },
+ {
+   "Date": "2003",
+   "Type": "O3",
+   "Number": 40.48
+ },
+ {
+   "Date": "2004",
+   "Type": "SO2",
+   "Number": 20.99
+ },
+ {
+   "Date": "2004",
+   "Type": "PM10",
+   "Number": 61.93
+ },
+ {
+   "Date": "2004",
+   "Type": "CO",
+   "Number": 1.67
+ },
+ {
+   "Date": "2004",
+   "Type": "NO",
+   "Number": 133.51
+ },
+ {
+   "Date": "2004",
+   "Type": "NO2",
+   "Number": 84.39
+ },
+ {
+   "Date": "2004",
+   "Type": "O3",
+   "Number": 37.83
+ },
+ {
+   "Date": "2005",
+   "Type": "SO2",
+   "Number": 18.9
+ },
+ {
+   "Date": "2005",
+   "Type": "PM10",
+   "Number": 57.02
+ },
+ {
+   "Date": "2005",
+   "Type": "CO",
+   "Number": 1.17
+ },
+ {
+   "Date": "2005",
+   "Type": "NO",
+   "Number": 117.05
+ },
+ {
+   "Date": "2005",
+   "Type": "NO2",
+   "Number": 81.68
+ },
+ {
+   "Date": "2005",
+   "Type": "O3",
+   "Number": 39.08
+ },
+ {
+   "Date": "2006",
+   "Type": "SO2",
+   "Number": 17.01
+ },
+ {
+   "Date": "2006",
+   "Type": "PM10",
+   "Number": 63.36
+ },
+ {
+   "Date": "2006",
+   "Type": "CO",
+   "Number": 1.44
+ },
+ {
+   "Date": "2006",
+   "Type": "NO",
+   "Number": 99.48
+ },
+ {
+   "Date": "2006",
+   "Type": "NO2",
+   "Number": 85.66
+ },
+ {
+   "Date": "2006",
+   "Type": "O3",
+   "Number": 37.52
+ },
+ {
+   "Date": "2007",
+   "Type": "SO2",
+   "Number": 16.66
+ },
+ {
+   "Date": "2007",
+   "Type": "PM10",
+   "Number": 69.1
+ },
+ {
+   "Date": "2007",
+   "Type": "CO",
+   "Number": 1.53
+ },
+ {
+   "Date": "2007",
+   "Type": "NO",
+   "Number": 140.9
+ },
+ {
+   "Date": "2007",
+   "Type": "NO2",
+   "Number": 100.69
+ },
+ {
+   "Date": "2007",
+   "Type": "O3",
+   "Number": 35.52
+ },
+ {
+   "Date": "2008",
+   "Type": "SO2",
+   "Number": 10.58
+ },
+ {
+   "Date": "2008",
+   "Type": "PM10",
+   "Number": 62.8
+ },
+ {
+   "Date": "2008",
+   "Type": "CO",
+   "Number": 1.33
+ },
+ {
+   "Date": "2008",
+   "Type": "NO",
+   "Number": 125.92
+ },
+ {
+   "Date": "2008",
+   "Type": "NO2",
+   "Number": 97.71
+ },
+ {
+   "Date": "2008",
+   "Type": "O3",
+   "Number": 35.08
+ },
+ {
+   "Date": "2009",
+   "Type": "SO2",
+   "Number": 7.36
+ },
+ {
+   "Date": "2009",
+   "Type": "PM10",
+   "Number": 55.3
+ },
+ {
+   "Date": "2009",
+   "Type": "CO",
+   "Number": 1.78
+ },
+ {
+   "Date": "2009",
+   "Type": "NO",
+   "Number": 132.66
+ },
+ {
+   "Date": "2009",
+   "Type": "NO2",
+   "Number": 102.8
+ },
+ {
+   "Date": "2009",
+   "Type": "O3",
+   "Number": 27.75
+ }
+]
